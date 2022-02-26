@@ -4,7 +4,7 @@
 [Solution URL](https://cat-wiki.iamstarcode.com/)</br>
 
 # Stack
--NextJS  repo [Fronend](https://github.com/iamstarcode/cat-wiki)</br>
+-NextJS [Frontend](https://github.com/iamstarcode/cat-wiki) repo</br>
 -Tailwind CSS</br>
 -Laravel(PHP)
 
